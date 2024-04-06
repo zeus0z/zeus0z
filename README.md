@@ -1,22 +1,40 @@
-### Opa, beleza? ⚡
+![Obi Wan Kenobi from Star Wars](https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
+### Hello There! 
+
+Hi, I'm Zeus (yeah, that's my real name)! A huge sci-fi nerd and a very passionate guy about all kinds of technology. If I could, I'd dive headfirst into every possible IT area, from Cybersecurity to Devops, from Frontend to Backend, everything! 
+
+But as our time on this life is limited, I can't focus on them all. So take a look at what technologies I'm using right now and some of my highlighted projects. 
+
+By the way, if you want to contact me (why wouldn'y you want to?), just click the link below:
+
+__Contact__:
+
+<a href="https://www.linkedin.com/in/zeus-amorim/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+## Technologies
+- Javascript/Typescript
+   - On Frontend: ReactJS, NextJS, AngularJS
+   - On Backend: NestJS, NodeJS, Express
+   - Mobile: React Native 
+- C# with .NET (in progress)
+- A couple of freelancer projects using PHP
+
+- Databases: MongoDB and MySQL 
+- Tools: Jest, Docker, SASS, Tailwind, PrismaORM, Styled Components, Bootstrap
 
 
-- 🌱 Estou em busca de uma oportunidade de emprego, para poder botar à prova meu conhecimento e ver o quanto consigo colaborar com o crescimento do meu time!
-- 💻 Atualmente estou trabalhando em projetos pessoais, como meu app para ajudar a comunidade do MMORPG World of Warcraft, feito em React!
-- 📕 No momento estou aprendendo mais sobre React Native, e iniciando os estudos em Java 
-- ⚡ Fun fact: "Zeus" não é apelido, é meu nome mesmo! Meu pai era um verdadeiro nerd quando o assunto era mitologia grega!
+## Highlighted Projects
 
-- 📌 Contato: <a href="https://www.linkedin.com/in/zeus-amorim/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### [Hermes](https://github.com/zeus0z/hermes-frontend)
+Store management web-app for inventory and cash flow management I'm working on to help a friend that has a small business. Using MVC architecture. Backend built with NestJS, responsible for authentication and connections to a MySQL database using Prisma ORM.  Frontend made in NextJS.
 
-##
 
-<div align="center">
-  <a href="https://github.com/zeus0z">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeus0z&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus0z&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-   
- ##
+### [Weather App](https://github.com/zeus0z/weather-app) 
+<img style="display:inline-block" width=60% src="https://raw.githubusercontent.com/zeus0z/weather-app/master/src/weather_app_fullscreen.png" width="70%">
+Gets the user's location through the browser's geolocation, consumes the Google Maps API to name that location, and consumes a weather API to obtain the current weather forecast and the forecast for the next 6 days. 
+
+
+<!---
   
 ![Zeus-react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Zeus-node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,4 +52,4 @@
 ![Zeus-MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Zeus-Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Zeus-Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-![Zeus-PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Zeus-PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) --->
